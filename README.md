@@ -1,4 +1,10 @@
 
+# INTRODUCTION
+
+ABC Crypto plugin is powered by Payerurl. ABC Crypto Checkout is a cryptocurrency payment processor. You can receive customer payments direct to your crypto wallet without helping any middleware account. We support USDT TRC20, Bitcoin BTC, Ethereum ERC20 and Binance pay payment through WooCommerce platform. It will be a good option for you, while you are looking for a Binance pay plugin in WordPress. Payerurl is able to Receive your crypto payments through Binance pay and ABC plugin acting as Binance Woocommerce Bridge. This plugin is supported by woocommerce order processing functions so it would be a smoother experience for your users as they never have to leave your website to make payments.
+
+The ABC plugin converts any Fiat currency to USDT, ETH, BTC etc at the time of the transaction with a live exchange rate to pay the user online, and once payment is complete instantly credits to the merchant’s account and also provides a response to the merchant website payment information through API for the change Order status to “processing”. Any coin on the funding wallet of Binance Pay as well as any coin with TRC20, ERC20, or Blockchain network support for customer transactions.
+
 
 # woocommerce-crypto-payment-gatweay-wordpress
 
