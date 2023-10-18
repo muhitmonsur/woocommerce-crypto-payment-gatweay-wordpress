@@ -48,4 +48,5 @@ Setup and activation Steps:
 * At the same time crypto amount will be deposited to the merchants account also listed in transaction history page.
 
 #ABOUT PAYERURL
+
 payerurl.com is a global provider of online crypto currency payment solutions. Moreover, Payerurl.com is a payment platform where vendors and consumers can transact with each other, backed by the new BTC, USDT, and ETH payment protocols supported by Binance pay and another network. All the transactions are executed on a 64-encoding and 256-base-encryption basis. For this reason, there is no way to hijack data packets in the middle of the transaction. Any user makes a transaction using the USDT wordpress platform.
