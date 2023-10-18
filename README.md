@@ -5,7 +5,9 @@ ABC Crypto plugin is powered by Payerurl. ABC Crypto Checkout is a cryptocurrenc
 
 The ABC plugin converts any Fiat currency to USDT, ETH, BTC etc at the time of the transaction with a live exchange rate to pay the user online, and once payment is complete instantly credits to the merchant’s account and also provides a response to the merchant website payment information through API for the change Order status to “processing”. Any coin on the funding wallet of Binance Pay as well as any coin with TRC20, ERC20, or Blockchain network support for customer transactions.
 
+
 #KEY FEATURES
+
 🔸 Binance Pay, USDT TRC20, BTC, ETH ERC20
 
 🔸 169+ fiat currencies FIAT CURRENCY LIST including USD, CAD, GBP, and EUR. etc including real-time exchange rate. (View the current exchange rate at: payerurl.com Exchange Rate (LIVE)).
