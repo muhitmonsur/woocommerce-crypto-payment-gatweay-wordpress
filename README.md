@@ -7,16 +7,27 @@ The ABC plugin converts any Fiat currency to USDT, ETH, BTC etc at the time of t
 
 #KEY FEATURES
 🔸 Binance Pay, USDT TRC20, BTC, ETH ERC20
+
 🔸 169+ fiat currencies FIAT CURRENCY LIST including USD, CAD, GBP, and EUR. etc including real-time exchange rate. (View the current exchange rate at: payerurl.com Exchange Rate (LIVE)).
+
 🔸 100% Free Open Source Plug-in on.
+
 🔸 No Bank Account Needed or no personal identity as mandatory
+
 🔸 Easy signup, registration, and API key integration
+
 🔸 No KYC on withdraw for free account.
+
 🔸 24/7 customer support in the integration of ABC Crypto checkout contact us telegram: https://t.me/Payerurl
+
 🔸 Tested OK with WooCommerce 6.0 or up.
 
+
 #Ecommerce Plugins and Integration
+
 WooCommerce, PHP , Python, JAVA, JavaScript
+
+
 
 
 # woocommerce-crypto-payment-gatweay-wordpress
